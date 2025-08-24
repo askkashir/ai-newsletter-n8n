@@ -20,3 +20,4 @@ It fetches the latest news, summarizes it using **Google Gemini**, and sends the
 - You need to set up your own credentials in n8n to make it work.  
 
 ---
+<img width="1474" height="375" alt="image" src="https://github.com/user-attachments/assets/d0406e54-e6d4-4e92-a865-7caf6da92561" />
